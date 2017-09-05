@@ -1,0 +1,18 @@
+Name: Josh Anderson
+Email: janderson152481@gmail.com
+Phone#: 910-849-4262
+
+About Me:
+	I grew up west of Missoula, out in Frenchtown. After high school I joined the Army, did four years of service.
+Spent most of my time in Germany before getting sent to north carolina. Once getting out I went to school at Life university and played rugby. 
+While there I had a teacher who turned me on to computer science. I decided to move back and get my Computer Science degree. 
+
+Schedule:
+	Class
+		Monday: 10-12
+		Tuseday: 9:30-12, 1-2
+		Wednesday: 10-12
+		Thursday:9:30-11
+		Friday:11-12, 3-5
+
+ 
